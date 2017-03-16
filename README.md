@@ -1,1 +1,1 @@
-Hello, this is TheEmpress's first git project! TheEmpress started coding seriously about 2 months ago! 
+Hello, this is TheEmpress's first git project! TheEmpress started coding seriously about 2 months ago! Anyways, this is really nothing important, just a newbie learning the inns and outs of Git and Github! However, if anybody wants to give me any tips, then that would greatly appreciated! 
