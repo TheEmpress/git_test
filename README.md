@@ -1,0 +1,1 @@
+Hello, this is TheEmpress's first git project! TheEmpress started coding seriously about 2 months ago! 
